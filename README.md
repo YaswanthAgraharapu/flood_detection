@@ -90,8 +90,7 @@ This project aims to detect humans and animals in both flood-affected and unaffe
 
 ## Contributors
 
-- [Your Name]
-- [Your Team Members]
+- [Yaswanth]
 
 ## License
 
